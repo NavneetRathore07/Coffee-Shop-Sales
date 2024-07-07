@@ -19,24 +19,44 @@ Approach
 
 This project was entirely conducted in Excel, utilizing various powerful features such as Power Query, Pivot Tables, and Power Pivot. Here is a detailed breakdown of the steps followed:
 
-Data Preparation
+Data Preparation:
+
 Created 'Size' Column:
+
 Extracted size information from the 'product_detail' column into a new column named 'Size'.
+
 Cleaned 'product_detail' Column:
+
 Removed size-related values from the 'product_detail' column since they are now captured in the 'Size' column.
+
 Processed 'transaction_time' Column:
+
 Extracted time from the 'transaction_time' column and removed any date information.
+
 Date and Time Extraction:
+
 Extracted day and month from the 'transaction_date' column.
+
 Extracted hour from the 'transaction_time' column.
+
 Analysis and Visualization
+
 Pivot Tables:
+
 Created pivot tables to summarize data and provide insights into sales trends.
+
 Charts:
+
 Developed various charts to visualize data, including sales trends by day, month, hour, and location.
+
 Power Pivot:
+
 Used Power Pivot for advanced data modeling and complex calculations.
+
 Power Query:
+
 Utilized Power Query for data transformation and preparation.
+
 Findings
+
 The analysis provided insights into various aspects of the coffee shop's sales, including peak sales times, revenue by month, sales performance across different locations, average order price, best-selling products, and sales by product category and type.
