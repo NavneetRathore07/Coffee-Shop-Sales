@@ -1,4 +1,5 @@
 Coffee Shop Sales Analysis In Excel
+
 Project Overview
 The main objective of this project is to analyze retail sales data from a coffee shop to gain actionable insights that will enhance its performance. The analysis aims to answer key business questions such as:
 
